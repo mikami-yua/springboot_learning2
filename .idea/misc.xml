@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/01-helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/02-boot-helloworld2/pom.xml" />
       </list>
     </option>
   </component>
