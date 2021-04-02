@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01-helloworld/01-helloworld.iml" filepath="$PROJECT_DIR$/01-helloworld/01-helloworld.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-boot-helloworld2/02-boot-helloworld2.iml" filepath="$PROJECT_DIR$/02-boot-helloworld2/02-boot-helloworld2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-boot-web/03-boot-web.iml" filepath="$PROJECT_DIR$/03-boot-web/03-boot-web.iml" />
     </modules>
   </component>
 </project>
