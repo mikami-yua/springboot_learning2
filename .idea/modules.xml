@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/01-helloworld/01-helloworld.iml" filepath="$PROJECT_DIR$/01-helloworld/01-helloworld.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-boot-helloworld2/02-boot-helloworld2.iml" filepath="$PROJECT_DIR$/02-boot-helloworld2/02-boot-helloworld2.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-boot-web/03-boot-web.iml" filepath="$PROJECT_DIR$/03-boot-web/03-boot-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-web-admin/04-web-admin.iml" filepath="$PROJECT_DIR$/04-web-admin/04-web-admin.iml" />
     </modules>
   </component>
 </project>

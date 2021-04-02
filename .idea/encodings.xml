@@ -4,5 +4,6 @@
     <file url="file://$PROJECT_DIR$/01-helloworld/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/02-boot-helloworld2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/03-boot-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-web-admin/src/main/java" charset="UTF-8" />
   </component>
 </project>
